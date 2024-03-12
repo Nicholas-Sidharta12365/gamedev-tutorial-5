@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Christian Brutal Sniper Theme Song.mp3-3b6cd06785746d58997cb669de4f4944.mp3str"
+
+[deps]
+
+source_file="res://assets/Christian Brutal Sniper Theme Song.mp3"
+dest_files=[ "res://.import/Christian Brutal Sniper Theme Song.mp3-3b6cd06785746d58997cb669de4f4944.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
